@@ -79,3 +79,5 @@ class Logger(object):
 
     def close(self):
         self.logfile.close()
+
+        
